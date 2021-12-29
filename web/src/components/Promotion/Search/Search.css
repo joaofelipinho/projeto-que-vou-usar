@@ -1,0 +1,15 @@
+.promotion-search__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.botao1 {
+    background-color:  #0F4C81;
+  color: white;
+  border-radius: 5px;
+  height: 40px;
+  width: 180px; 
+  font-size: 17px;
+}
+

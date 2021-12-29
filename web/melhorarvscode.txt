@@ -1,0 +1,4 @@
+extenções ->
+
+Configurar prettier pra formatar qudo salvar arquivo.
+Configurar Vs pra salvar todos os arqivos;

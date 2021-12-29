@@ -1,0 +1,35 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Câmera interna inteligente Wi-Fi Full HD iM3",
+      "price": 300.00,
+      "imageUrl": "oi.png",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "Câmera DS-2CD 2583G2-I",
+      "price": 645.00,
+      "imageUrl": "camera.png"
+    },
+    {
+      "id": 3,
+      "title": "Câmera interna inteligente Wi-Fi Full HD iM4",
+      "price": 349.00,
+      "imageUrl": "wayfair.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1
+    },
+    {
+      "id": 2,
+      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+      "promotionId": 2
+    }
+  ]
+}
